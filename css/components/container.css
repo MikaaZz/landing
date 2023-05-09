@@ -1,0 +1,6 @@
+.container {
+ margin: 0 auto;
+ height: fit-content;
+ max-width: 900px;
+ width: 90%;
+}
